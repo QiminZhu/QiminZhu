@@ -3,11 +3,11 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a first-year student in the ICT faculty at Mahidol University, and I am currently learning C and mathematics.
+I'm a first-year student in the ICT faculty at Mahidol University, and I am currently learning Java and mathematics.
 
 - 🔭 I’m currently working on my fundamental mathematics skills.
 - 🌱 I’m currently learning C, Algebra, and Discrete Mathematics.
-- 👯 I’m looking to collaborate on AI, NPL, Data Analysis.
+- 👯 I’m looking to collaborate on AI, NPL, and Data Analysis.
 
 ### 🛠️ My Skills
 - **Languages:** C, Python, HTML
