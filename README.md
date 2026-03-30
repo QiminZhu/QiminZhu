@@ -6,12 +6,12 @@
 I'm a first-year student in the ICT faculty at Mahidol University, and I am currently learning Java and mathematics.
 
 - 🔭 I’m currently working on my fundamental mathematics skills.
-- 🌱 I’m currently learning C, Algebra, and Discrete Mathematics.
+- 🌱 I’m currently learning Matlab, Java, and Statistics.
 - 👯 I’m looking to collaborate on AI, NPL, and Data Analysis.
 
 ### 🛠️ My Skills
-- **Languages:** C, Python, HTML
-- **Tools:** Git
+- **Languages:** C, Python, Java, HTML
+- **Tools:** Git, Matlab, Jupyter Notebook, Docker
 
 ### How to reach me: [My Resume](https://ankerrr47.github.io)
 <p align="left">
