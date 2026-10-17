@@ -10,7 +10,7 @@ I'm a second-year student in the Faculty of ICT at Mahidol University.
 - **Tools:** Git, MATLAB, Jupyter Notebook, Docker, Bash/Zsh.
 
 ### LeetCode
-![LeetCode Stats]((https://leetcard.jacoblin.cool/ANKERRR47?theme=dark&font=Roboto))
+![LeetCode Stats](https://leetcard.jacoblin.cool/ANKERRR47?theme=dark&font=Roboto)
 
 ### Codeforces
 [My Codeforces Profile](https://codeforces.com/profile/AnkerZhu)
