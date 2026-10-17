@@ -3,15 +3,17 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a first-year student in the ICT faculty at Mahidol University, and I am currently learning Java and mathematics.
-
-- 🔭 I’m currently working on my fundamental mathematics skills.
-- 🌱 I’m currently learning Matlab, Java, and Statistics.
-- 👯 I’m looking to collaborate on AI, NPL, and Data Analysis.
+I'm a second-year student in the Faculty of ICT at Mahidol University.
 
 ### 🛠️ My Skills
-- **Languages:** C, Python, Java, HTML
-- **Tools:** Git, Matlab, Jupyter Notebook, Docker
+- **Languages:** C, Python, Java, JavaScript, HTML, CSS, SQL, Shell Scripting.
+- **Tools:** Git, MATLAB, Jupyter Notebook, Docker, Bash/Zsh.
+
+### LeetCode
+![LeetCode Stats]([https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Roboto](https://leetcard.jacoblin.cool/ANKERRR47?theme=dark&font=Roboto))
+
+### Codeforces
+[My Codeforces Profile](https://codeforces.com/profile/AnkerZhu)
 
 ### How to reach me: [My Resume](https://ankerrr47.github.io)
 <p align="left">
